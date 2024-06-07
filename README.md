@@ -27,4 +27,4 @@ Este é um projeto em Python que simula um Gerenciador de Biblioteca
 
 ## Autor
 
-Apolomio Guilherme Lima da Silva
+Apolonio Guilherme Lima da Silva
